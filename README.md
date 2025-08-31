@@ -7,3 +7,7 @@ cara menjalankannya yaitu:
 2. kemudian buka file tersebut
 3. arahkan mau membukanya dengan web browser kesayangan anda
 4. dan langsung bisa di gunakan kalkulator tersebut
+
+ss web: 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3416e436-b5b4-4079-be86-ef064a6fffa9" />
+
